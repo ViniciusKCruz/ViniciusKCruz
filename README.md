@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning HTML5, CSS, JavaScript, Java, MySQL and PostGrees SQL<br>🎯 Goals: I want to became a Software engeneering and work as a Fullstack developer <br>🎲 Fun fact: I can't speak about myself on pression</p>
+<p align="left"> 🖥️I'm studying Software engeneering at UCSAL and Technical Degree System development at SENAI <br>✨ Creating bugs since 2024<br>📚 I'm currently learning HTML5, CSS, JavaScript, Java, MySQL and PostGrees SQL<br>🎯 Goals: I want to became a Software engeneering and work as a Fullstack developer <br>🎲 Fun fact: I can't speak about myself on pression</p>
 
 ###
 
