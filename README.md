@@ -69,5 +69,5 @@
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /> https://www.linkedin.com/in/viniciuscruz01/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /> www.linkedin.com/in/viníciuscruz01
 </div>
