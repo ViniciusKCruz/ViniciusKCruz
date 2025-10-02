@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me:</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left"> Others </h4>
+<h2 align="left"> Others: </h4>
 
 ###
 
@@ -63,3 +63,11 @@
 </div>
 
 ###
+
+<h2 align="left"> Talk to me: </h4>
+
+###
+
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" /> https://www.linkedin.com/in/viniciuscruz01/
+</div>
